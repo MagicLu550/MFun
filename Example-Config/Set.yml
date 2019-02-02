@@ -1,0 +1,19 @@
+server:
+  check-command: true
+  tps-reload: 60
+  broadcast-ifopen: true
+  broadcast-number: 3
+  broadcast-second-one: 10000
+  people-tip: ''
+  updated: false
+  reset: false
+  badword-check: true
+fly-catch-to:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+player:
+  fly-check: false
+  com-Message: 欢迎加入服务器
+  com-Title: 欢迎加入服务器
+  com-Tip: 欢迎加入服务器
